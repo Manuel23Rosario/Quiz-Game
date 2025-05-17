@@ -1,0 +1,7 @@
+C:\Users\manue\OneDrive\Escritorio\Proyectos\Quiz-Game\Quiz-Game\bin\Debug\Quiz-Game.exe.config
+C:\Users\manue\OneDrive\Escritorio\Proyectos\Quiz-Game\Quiz-Game\bin\Debug\Quiz-Game.exe
+C:\Users\manue\OneDrive\Escritorio\Proyectos\Quiz-Game\Quiz-Game\bin\Debug\Quiz-Game.pdb
+C:\Users\manue\OneDrive\Escritorio\Proyectos\Quiz-Game\Quiz-Game\obj\Debug\Quiz-Game.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Escritorio\Proyectos\Quiz-Game\Quiz-Game\obj\Debug\Quiz-Game.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Escritorio\Proyectos\Quiz-Game\Quiz-Game\obj\Debug\Quiz-Game.exe
+C:\Users\manue\OneDrive\Escritorio\Proyectos\Quiz-Game\Quiz-Game\obj\Debug\Quiz-Game.pdb

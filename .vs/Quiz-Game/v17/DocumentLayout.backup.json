@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manue\\OneDrive\\Escritorio\\Proyectos\\Quiz-Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FCF6F2-5011-49AE-ADF0-1F55C9AEC6FA}|Quiz-Game\\Quiz-Game.csproj|c:\\users\\manue\\onedrive\\escritorio\\proyectos\\quiz-game\\quiz-game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FCF6F2-5011-49AE-ADF0-1F55C9AEC6FA}|Quiz-Game\\Quiz-Game.csproj|solutionrelative:quiz-game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FCF6F2-5011-49AE-ADF0-1F55C9AEC6FA}|Quiz-Game\\Quiz-Game.csproj|c:\\users\\manue\\onedrive\\escritorio\\proyectos\\quiz-game\\quiz-game\\respuestas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FCF6F2-5011-49AE-ADF0-1F55C9AEC6FA}|Quiz-Game\\Quiz-Game.csproj|solutionrelative:quiz-game\\respuestas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FCF6F2-5011-49AE-ADF0-1F55C9AEC6FA}|Quiz-Game\\Quiz-Game.csproj|c:\\users\\manue\\onedrive\\escritorio\\proyectos\\quiz-game\\quiz-game\\pregunta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FCF6F2-5011-49AE-ADF0-1F55C9AEC6FA}|Quiz-Game\\Quiz-Game.csproj|solutionrelative:quiz-game\\pregunta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FCF6F2-5011-49AE-ADF0-1F55C9AEC6FA}|Quiz-Game\\Quiz-Game.csproj|c:\\users\\manue\\onedrive\\escritorio\\proyectos\\quiz-game\\quiz-game\\opciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FCF6F2-5011-49AE-ADF0-1F55C9AEC6FA}|Quiz-Game\\Quiz-Game.csproj|solutionrelative:quiz-game\\opciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Respuestas.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Proyectos\\Quiz-Game\\Quiz-Game\\Respuestas.cs",
+              "RelativeDocumentMoniker": "Quiz-Game\\Respuestas.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Escritorio\\Proyectos\\Quiz-Game\\Quiz-Game\\Respuestas.cs",
+              "RelativeToolTip": "Quiz-Game\\Respuestas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T00:48:47.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Opciones.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Proyectos\\Quiz-Game\\Quiz-Game\\Opciones.cs",
+              "RelativeDocumentMoniker": "Quiz-Game\\Opciones.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Escritorio\\Proyectos\\Quiz-Game\\Quiz-Game\\Opciones.cs",
+              "RelativeToolTip": "Quiz-Game\\Opciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T00:48:41.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pregunta.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Proyectos\\Quiz-Game\\Quiz-Game\\Pregunta.cs",
+              "RelativeDocumentMoniker": "Quiz-Game\\Pregunta.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Escritorio\\Proyectos\\Quiz-Game\\Quiz-Game\\Pregunta.cs",
+              "RelativeToolTip": "Quiz-Game\\Pregunta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T00:48:39.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Proyectos\\Quiz-Game\\Quiz-Game\\Program.cs",
+              "RelativeDocumentMoniker": "Quiz-Game\\Program.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Escritorio\\Proyectos\\Quiz-Game\\Quiz-Game\\Program.cs*",
+              "RelativeToolTip": "Quiz-Game\\Program.cs*",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAhwNEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:14:17.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
